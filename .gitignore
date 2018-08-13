@@ -1,3 +1,9 @@
+# qt creator
+*creator.user
+
+# meson build dir
+build
+
 # Prerequisites
 *.d
 
